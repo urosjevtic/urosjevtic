@@ -4,7 +4,7 @@ Thanks for dropping by my GitHub profile! I'm Uroš, a student and a passionate 
 
 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=angular,cpp,cs,dotnet,java,spring,go,html,css,js,ts,py,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,cpp,cs,dotnet,java,spring,go,html,css,js,ts,py,swift,git)](https://skillicons.dev)
 
 Feel free to reach out to me through:
 
