@@ -12,4 +12,7 @@ Feel free to reach out to me through:
 
 📸 Instagram: @jevta_66
 
+👔 LinkedIn: www.linkedin.com/in/jevticuros
+
+
 Let's connect and geek out over code together!
