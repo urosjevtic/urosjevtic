@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-Thanks for dropping by my GitHub profile! I'm Uroš, a student and a passionate software engineer, on a quest to dive deep into the exciting world of technology and shake things up with some innovative ideas. When I'm not coding, you can often find me embarking on epic Dungeons & Dragons quests with friends, binge-watching the latest movies and TV shows (especially sci-fi and fantasy) or jamming out to my favorite tunes.
+Thanks for dropping by my GitHub profile! I'm Uroš Jevtić, a Master’s student and a graduate electrical and computer engineer, passionate about exploring the ever-evolving world of software development and technology. I love turning creative ideas into functional and innovative solutions.
+
+When I'm not coding, you’ll probably find me leading epic Dungeons & Dragons adventures, binge-watching sci-fi or fantasy series, or listening to some good music.
 
 Languages and Tools:
 
